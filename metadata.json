@@ -1,0 +1,7 @@
+{
+  "name": "Super PPU Studio - SNES Video & ROM Builder",
+  "description": "Convert live webcam and images into authentic 15-bit SNES PPU tiles, dithered planar graphics, and bootable .sfc ROM cartridges.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
